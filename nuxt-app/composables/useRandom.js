@@ -1,0 +1,1 @@
+export const useRandom = ()=>useState('data2', () => Math.round(Math.random() * 1000))
